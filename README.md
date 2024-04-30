@@ -6,5 +6,8 @@ User can modify his profile, see his result.
 Technologies used:
 1.Python.
 2.Mysql
+3.Html
+4.CSS3
+5.Javascript
 3.Flask Framework
 
